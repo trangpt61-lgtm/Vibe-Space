@@ -1,0 +1,6 @@
+{
+  "name": "VIBE SPACE – Không gian cảm xúc",
+  "description": "Nền tảng chăm sóc sức khỏe tinh thần học đường dành cho học sinh Trường Tiểu học, THCS & THPT FPT Hà Nam. Không gian để hiểu mình, lắng nghe cảm xúc và kết nối yêu thương.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
